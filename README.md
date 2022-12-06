@@ -10,5 +10,5 @@ Greetings! I'm an enthusiast developer who hopes to be familiar with full-stack 
 
 </br>
 
-##### GitHub : [NonaEarth](https://github.com/NonaEarth)
+### GitHub : [NonaEarth](https://github.com/NonaEarth)
 ##### Time zone : KST (Korea Standard Time) / GMT +9
