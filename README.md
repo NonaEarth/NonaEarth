@@ -10,5 +10,6 @@ Greetings! I'm an enthusiast developer who hopes to be familiar with full-stack 
 
 </br>
 
-### GitHub : [NonaEarth](https://github.com/NonaEarth)
-##### Time zone : KST (Korea Standard Time) / GMT +9
+<span>GitHub : [NonaEarth](https://github.com/NonaEarth)</span>
+</br>
+<span>Time zone : KST (Korea Standard Time, GMT +9)</span>
