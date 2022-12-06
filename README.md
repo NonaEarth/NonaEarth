@@ -1,4 +1,4 @@
-# **README**
+# README
 Greetings! I'm an enthusiast developer who hopes to be familiar with full-stack dev environments.
 
 > **Main Languages**
